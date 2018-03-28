@@ -1,0 +1,28 @@
+body{
+  overflow:scroll;
+  background-image : url(https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif);
+  height: 100%;
+  text-shadow: 2px 2px black;
+  color:white;
+  size: 50px;
+  cursor:pointer;
+}
+
+img {
+    float:center;
+}
+h2 {
+     font-style:italic; 
+    line-height: 220px;
+    float:center;
+}
+.P{
+  size: 10px;
+  text-align:center;
+}
+.button{
+  margin: auto;
+  padding: 0;
+  display: block;s
+}
+
